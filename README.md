@@ -29,8 +29,3 @@
 </p>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mshivanshmaurya?ext=heatmap)
-<div>
-    <img alt="Shivansh's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Quantumdevlpr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true">
-    
-</div>
