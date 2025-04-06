@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java DSA**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **HTML & CSS  |  JavaScript **
 
 - 📫 How to reach me **amitkumarsingh21feb2005@gmail.com**
   
