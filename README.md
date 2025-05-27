@@ -10,7 +10,8 @@
 
 ### 🧮 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=unicorn&font=Kalam&ext=contest)
+
 
   
 
