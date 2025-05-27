@@ -12,12 +12,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=nord&font=Fira%20Code&ext=contest)
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumarsingh21feb2005&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amitkumarsingh21feb2005&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarsingh21feb2005&layout=compact&theme=tokyonight)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
