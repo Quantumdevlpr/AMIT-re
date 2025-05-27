@@ -13,6 +13,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=nord&font=Fira%20Code&ext=contest)
 
 
+[![Codolio](https://img.shields.io/badge/Codolio-View%20My%20Profile-blue)](https://codolio.com/profile/AmitKumarSingh)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/amit-kumar-singh-5094712a4" target="_blank">
