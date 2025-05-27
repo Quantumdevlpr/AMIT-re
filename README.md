@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning **HTML & CSS  |  JavaScript **
 
 - 📫 How to reach me **amitkumarsingh21feb2005@gmail.com**
+
+### 🧮 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=dark&font=Baloo&ext=contest)
+
   
 
 <h3 align="left">Connect with me:</h3>
