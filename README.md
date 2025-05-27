@@ -11,7 +11,9 @@
 ### 🧮 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=nord&font=Fira%20Code&ext=contest)
-  
+
+![Snake animation](https://github.com/amitkumarsingh21feb2005/amitkumarsingh21feb2005/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
