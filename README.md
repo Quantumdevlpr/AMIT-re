@@ -8,18 +8,15 @@
 
 - 📫 How to reach me **amitkumarsingh21feb2005@gmail.com**
 
-### 🧮 LeetCode Stats
+## 👋 **Curious about my latest projects, skills, and achievements?**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=nord&font=Fira%20Code&ext=contest)
-
+### **Check out my tech portfolio on [Codolio](https://codolio.com/profile/AmitKumarSingh), where I showcase my work and journey as a developer!**
 
 [![Codolio Profile](https://img.shields.io/badge/Codolio-Amit%20Kumar%20Singh-%23007acc?style=for-the-badge&logo=target&logoColor=white)](https://codolio.com/profile/AmitKumarSingh)
 
-👋 Curious about my latest projects, skills, and achievements?  
-Check out my tech portfolio on **Codolio**, where I showcase my work and journey as a developer!
+### 🧮 LeetCode Stats
 
-🔗 [codolio.com/profile/AmitKumarSingh](https://codolio.com/profile/AmitKumarSingh)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=nord&font=Fira%20Code&ext=contest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
