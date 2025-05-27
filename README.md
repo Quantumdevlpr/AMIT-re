@@ -10,9 +10,7 @@
 
 ### 🧮 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=unicorn&font=Kalam&ext=contest)
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/AMITKSn?theme=nord&font=Fira%20Code&ext=contest)
   
 
 <h3 align="left">Connect with me:</h3>
