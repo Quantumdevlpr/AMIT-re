@@ -2,8 +2,6 @@
 
 
 
-
-
 <h1 align="center">Hi 👋, I'm Amit Kumar Singh</h1>
 <h3 align="center">Computer Science and Engineering Student </h3>
 
