@@ -1,11 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 
-
+<img width="883" height="300" alt="Image" src="https://github.com/user-attachments/assets/6bfc3b57-2070-488d-9843-fa45582c746a" />
 <h1 align="center">Hi 👋, I'm Amit Kumar Singh</h1>
 <h3 align="center">Computer Science and Engineering Student </h3>
-
-
 
 
 
