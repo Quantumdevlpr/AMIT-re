@@ -1,6 +1,5 @@
 
-
-<img width="883" height="300" alt="Image" src="https://github.com/user-attachments/assets/6bfc3b57-2070-488d-9843-fa45582c746a" />
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/728ce86a-9d16-4c16-a480-13ba4a065c94" />
 <h1 align="center">Hi 👋, I'm Amit Kumar Singh</h1>
 <h3 align="center">Computer Science and Engineering Student </h3>
 
