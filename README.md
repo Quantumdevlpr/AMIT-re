@@ -53,15 +53,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-https://github.com/user-attachments/assets/91c07410-2ced-4bbc-b3ae-ca0fd2c3b54b
-
-
-
-</p>
-
-
-
-
-
+<video width="640" height="360" controls autoplay muted loop poster="thumbnail.jpg">
+  <source src="https://res.cloudinary.com/dvoned9mv/video/upload/v1753765973/471602417-0ac39db1-cd87-40d7-9b1f-09b6b0b95fdd_w3ujm4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
